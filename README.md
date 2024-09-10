@@ -28,7 +28,7 @@ Check out my latest work here on GitHub!
 
 ---
 
-<div align="center">
+
 
 # 💻 Tech Stack
 
@@ -38,6 +38,7 @@ Check out my latest work here on GitHub!
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
+<div align="center">
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=noyal1234&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
