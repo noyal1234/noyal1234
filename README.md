@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 About Me
 👋 Hey there! I'm **Noyal Bastin Benny**  
@@ -27,8 +27,6 @@ Check out my latest work here on GitHub!
 [LinkedIn](https://www.linkedin.com/in/noyal-bastin) | [Twitter](https://twitter.com/noyal_benny)
 
 ---
-
-</div>
 
 <div align="center">
 
