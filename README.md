@@ -22,7 +22,7 @@ I’m a firm believer in the power of **knowledge sharing**. I regularly partici
 
 ### 📫 Let's Connect!
 Check out my latest work here on GitHub!  
-[LinkedIn](https://www.linkedin.com/in/noyal-bastin) | [Twitter](https://twitter.com/noyal_benny)
+[LinkedIn](https://www.linkedin.com/in/noyal-bastin)
 
 ---
 
